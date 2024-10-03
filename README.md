@@ -4,8 +4,10 @@
 
 ## Folder Description:
 
-_______: R code for analysis
+R_Main: Code for main manuscript analysis
 
-______: R code to replicate plots
+R_Supp: Code for supplementary analysis
 
-______: Datasets
+Figures: R code to replicate plots
+
+Datasets: CSV files for all code
